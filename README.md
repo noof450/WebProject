@@ -9,7 +9,7 @@ This ptoject is about <b>ChatRoom</b>, which is a web-based platform that enable
 The ChatRoom can be used for various purposes, such as socializing, networking, or collaborating.
 
 # Project Description
-In this project the ChatRoom enables the user to interact and chat with another person.
+In this project the ChatRoom enables the user to interact and chat with another person.<br>
 <b> This ChatRoom have many basic features which are: </b>
 1. User registration and authentication: Users can create an account and log in to the chat room using their credentials.
 2. Chat interface: The chat interface allows users to send and receive messages in real-time. 
