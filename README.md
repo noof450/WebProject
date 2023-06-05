@@ -10,7 +10,7 @@ The ChatRoom can be used for various purposes, such as socializing, networking, 
 
 # Project goals
 
-Our goals of creating a chat room is: 
+<b>Our goals of creating a chat room is:</b> 
 1. Communication: users can connect with each other and share information.
 2. Collaboration: A chat room can facilitate collaboration and teamwork among users who are working on a project or task together.
 3. Community building: A chat room can help build a community of users who share common interests, goals, or values.
@@ -18,12 +18,14 @@ Our goals of creating a chat room is:
 
 # Project Description
 
-In this project the ChatRoom enables the user to interact and chat with another person.<br>
+In this project the ChatRoom enables the user to interact and chat with another person.
+
 <b> This ChatRoom have many basic features which are:</b>
 1. User registration and authentication: Users can create an account and log in to the chat room using their credentials.
 2. Chat interface: The chat interface allows users to send and receive messages in real-time. 
 3. Notifications: The chat room can send notifications to users when they receive new messages or when there are updates to the chat room.
 
 # User Interaction
- 
+
+![4902e80f-901b-49d9-8bfc-0a368dac89c5](https://github.com/noof450/WebProject/assets/95547167/c99052ff-c786-4b09-8c79-577e6380dff6)
 
