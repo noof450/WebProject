@@ -42,8 +42,8 @@ In this project the ChatRoom enables the user to interact and chat with another 
 
 
 # References
-https://github.com/imgitto/Simple-Chatroom-Socket-Based 
-https://www.freecodecamp.org/news/simple-chat-application-in-node-js-using-express-mongoose-and-socket-io-ee62d94f5804/
-https://youtu.be/kLxGA7EtqFk
+https://github.com/imgitto/Simple-Chatroom-Socket-Based <br>
+https://www.freecodecamp.org/news/simple-chat-application-in-node-js-using-express-mongoose-and-socket-io-ee62d94f5804/<br>
+https://youtu.be/kLxGA7EtqFk<br>
 
 
