@@ -6,7 +6,7 @@
 
 Web development is the process of creating websites and web applications that can be accessed through the internet. It involves a combination of programming, design, and web server management skills to create dynamic and interactive web pages. 
 
-Web development is typically divided into two main categories: front-end development and back-end development. Front-end development involves creating the user interface and designing the user experience using programming languages such as HTML, CSS, and JavaScript. Back-end development involves creating the server-side code and database management using programming languages such as PHP, Python, or Ruby.
+Web development is typically divided into two main categories: front-end development and back-end development, Front-end development involves creating the user interface and designing the user experience using programming languages such as HTML, CSS, and JavaScript. Back-end development involves creating the server-side code and database management using programming languages such as PHP, Python, or Ruby.
 
 # Project Idea
 This ptoject is about <b>ChatRoom</b>, which is a web-based platform that enables users to communicate with each other in real-time.
