@@ -1,4 +1,8 @@
 <h1 align="center"> CS346 Web Development Project </h1>
+<h3 align="center"> by </h3>
+<h3 align="center"> Hanan Owaidh Almutairi </h3>
+<h3 align="center"> Ghadeer Muiedh Alshalawi </h3>
+<h3 align="center"> Nouf Hassan Alnakhli </h3>
 
 Web development is the process of creating websites and web applications that can be accessed through the internet. It involves a combination of programming, design, and web server management skills to create dynamic and interactive web pages. 
 
@@ -30,15 +34,16 @@ In this project the ChatRoom enables the user to interact and chat with another 
 ![4902e80f-901b-49d9-8bfc-0a368dac89c5](https://github.com/noof450/WebProject/assets/95547167/c99052ff-c786-4b09-8c79-577e6380dff6)<br>
 
 
-
 # ChatRoom
-![RegisterPage](https://github.com/noof450/WebProject/assets/95547167/e6ab1b8e-c7c9-4324-bbc5-81bf9b437e6f)
+![RegisterPage](https://github.com/noof450/WebProject/assets/95547167/97270836-8511-423b-aa21-fb7e966f4a02)
 ![loginPage](https://github.com/noof450/WebProject/assets/95547167/4e5e24e5-34c6-4df1-9788-3a4abf8f79c1)
 ![chatRoom](https://github.com/noof450/WebProject/assets/95547167/2a3b1ea3-4f5a-4914-b03f-3615b5e683c1)
 ![chatRoomMessages](https://github.com/noof450/WebProject/assets/95547167/397500ea-c118-4f82-98ad-cdd9fbe1bd82)
 
+
 # References
 https://github.com/imgitto/Simple-Chatroom-Socket-Based 
-
+https://www.freecodecamp.org/news/simple-chat-application-in-node-js-using-express-mongoose-and-socket-io-ee62d94f5804/
+https://youtu.be/kLxGA7EtqFk
 
 
