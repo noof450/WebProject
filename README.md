@@ -27,7 +27,7 @@ In this project the ChatRoom enables the user to interact and chat with another 
 
 # User Interaction
 
-![4902e80f-901b-49d9-8bfc-0a368dac89c5](https://github.com/noof450/WebProject/assets/95547167/c99052ff-c786-4b09-8c79-577e6380dff6)
+![4902e80f-901b-49d9-8bfc-0a368dac89c5](https://github.com/noof450/WebProject/assets/95547167/c99052ff-c786-4b09-8c79-577e6380dff6)<br>
 
 
 
