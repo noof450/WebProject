@@ -1,8 +1,8 @@
-<h1 align="center"> CS346 Web Development Project </h1>
-<h3 align="center"> by </h3>
-<h3 align="center"> Hanan Owaidh Almutairi </h3>
-<h3 align="center"> Ghadeer Muiedh Alshalawi </h3>
-<h3 align="center"> Nouf Hassan Alnakhli </h3>
+<h1 align="center">CS346 Web Development Project </h1>
+<h3 align="center">by: </h3>
+<h3 align="center">Hanan Owaidh Almutairi </h3>
+<h3 align="center">Ghadeer Muiedh Alshalawi </h3>
+<h3 align="center">Nouf Hassan Alnakhli </h3>
 
 Web development is the process of creating websites and web applications that can be accessed through the internet. It involves a combination of programming, design, and web server management skills to create dynamic and interactive web pages. 
 
